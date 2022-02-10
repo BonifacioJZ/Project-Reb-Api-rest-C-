@@ -1,0 +1,12 @@
+/home/bonifacio/Projects/C#/RebProject/Domain/bin/Debug/net6.0/Domain.deps.json
+/home/bonifacio/Projects/C#/RebProject/Domain/bin/Debug/net6.0/Domain.dll
+/home/bonifacio/Projects/C#/RebProject/Domain/bin/Debug/net6.0/ref/Domain.dll
+/home/bonifacio/Projects/C#/RebProject/Domain/bin/Debug/net6.0/Domain.pdb
+/home/bonifacio/Projects/C#/RebProject/Domain/obj/Debug/net6.0/Domain.csproj.AssemblyReference.cache
+/home/bonifacio/Projects/C#/RebProject/Domain/obj/Debug/net6.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/bonifacio/Projects/C#/RebProject/Domain/obj/Debug/net6.0/Domain.AssemblyInfoInputs.cache
+/home/bonifacio/Projects/C#/RebProject/Domain/obj/Debug/net6.0/Domain.AssemblyInfo.cs
+/home/bonifacio/Projects/C#/RebProject/Domain/obj/Debug/net6.0/Domain.csproj.CoreCompileInputs.cache
+/home/bonifacio/Projects/C#/RebProject/Domain/obj/Debug/net6.0/Domain.dll
+/home/bonifacio/Projects/C#/RebProject/Domain/obj/Debug/net6.0/ref/Domain.dll
+/home/bonifacio/Projects/C#/RebProject/Domain/obj/Debug/net6.0/Domain.pdb

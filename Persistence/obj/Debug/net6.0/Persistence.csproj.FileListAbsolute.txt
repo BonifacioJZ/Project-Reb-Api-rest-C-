@@ -1,0 +1,17 @@
+/home/bonifacio/Projects/C#/RebProject/Persistence/bin/Debug/net6.0/Persistence.deps.json
+/home/bonifacio/Projects/C#/RebProject/Persistence/bin/Debug/net6.0/Persistence.runtimeconfig.json
+/home/bonifacio/Projects/C#/RebProject/Persistence/bin/Debug/net6.0/Persistence.dll
+/home/bonifacio/Projects/C#/RebProject/Persistence/bin/Debug/net6.0/ref/Persistence.dll
+/home/bonifacio/Projects/C#/RebProject/Persistence/bin/Debug/net6.0/Persistence.pdb
+/home/bonifacio/Projects/C#/RebProject/Persistence/bin/Debug/net6.0/Domain.dll
+/home/bonifacio/Projects/C#/RebProject/Persistence/bin/Debug/net6.0/Domain.pdb
+/home/bonifacio/Projects/C#/RebProject/Persistence/obj/Debug/net6.0/Persistence.csproj.AssemblyReference.cache
+/home/bonifacio/Projects/C#/RebProject/Persistence/obj/Debug/net6.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/home/bonifacio/Projects/C#/RebProject/Persistence/obj/Debug/net6.0/Persistence.AssemblyInfoInputs.cache
+/home/bonifacio/Projects/C#/RebProject/Persistence/obj/Debug/net6.0/Persistence.AssemblyInfo.cs
+/home/bonifacio/Projects/C#/RebProject/Persistence/obj/Debug/net6.0/Persistence.csproj.CoreCompileInputs.cache
+/home/bonifacio/Projects/C#/RebProject/Persistence/obj/Debug/net6.0/Persistence.csproj.CopyComplete
+/home/bonifacio/Projects/C#/RebProject/Persistence/obj/Debug/net6.0/Persistence.dll
+/home/bonifacio/Projects/C#/RebProject/Persistence/obj/Debug/net6.0/ref/Persistence.dll
+/home/bonifacio/Projects/C#/RebProject/Persistence/obj/Debug/net6.0/Persistence.pdb
+/home/bonifacio/Projects/C#/RebProject/Persistence/obj/Debug/net6.0/Persistence.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+/home/bonifacio/Projects/C#/RebProject/Aplication/bin/Debug/net6.0/Aplication.deps.json
+/home/bonifacio/Projects/C#/RebProject/Aplication/bin/Debug/net6.0/Aplication.dll
+/home/bonifacio/Projects/C#/RebProject/Aplication/bin/Debug/net6.0/ref/Aplication.dll
+/home/bonifacio/Projects/C#/RebProject/Aplication/bin/Debug/net6.0/Aplication.pdb
+/home/bonifacio/Projects/C#/RebProject/Aplication/bin/Debug/net6.0/Domain.dll
+/home/bonifacio/Projects/C#/RebProject/Aplication/bin/Debug/net6.0/Persistence.dll
+/home/bonifacio/Projects/C#/RebProject/Aplication/bin/Debug/net6.0/Domain.pdb
+/home/bonifacio/Projects/C#/RebProject/Aplication/bin/Debug/net6.0/Persistence.pdb
+/home/bonifacio/Projects/C#/RebProject/Aplication/obj/Debug/net6.0/Aplication.csproj.AssemblyReference.cache
+/home/bonifacio/Projects/C#/RebProject/Aplication/obj/Debug/net6.0/Aplication.GeneratedMSBuildEditorConfig.editorconfig
+/home/bonifacio/Projects/C#/RebProject/Aplication/obj/Debug/net6.0/Aplication.AssemblyInfoInputs.cache
+/home/bonifacio/Projects/C#/RebProject/Aplication/obj/Debug/net6.0/Aplication.AssemblyInfo.cs
+/home/bonifacio/Projects/C#/RebProject/Aplication/obj/Debug/net6.0/Aplication.csproj.CoreCompileInputs.cache
+/home/bonifacio/Projects/C#/RebProject/Aplication/obj/Debug/net6.0/Aplication.csproj.CopyComplete
+/home/bonifacio/Projects/C#/RebProject/Aplication/obj/Debug/net6.0/Aplication.dll
+/home/bonifacio/Projects/C#/RebProject/Aplication/obj/Debug/net6.0/ref/Aplication.dll
+/home/bonifacio/Projects/C#/RebProject/Aplication/obj/Debug/net6.0/Aplication.pdb
