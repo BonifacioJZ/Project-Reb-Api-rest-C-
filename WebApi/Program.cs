@@ -2,10 +2,16 @@ using Microsoft.EntityFrameworkCore;
 using Persistence;
 using Application.Interfaces;
 using Application.Services;
+using FluentValidation.AspNetCore;
+using Application.Validations;
+using AutoMapper;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+
+//Auto Mapper Configuration
+builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 //Database Configuration
 builder.Services.AddDbContext<RebContext>(
     cfg => {
@@ -17,8 +23,12 @@ builder.Services.AddDbContext<RebContext>(
 
 //Injections to dependencies
 builder.Services.AddTransient<ICategoryService,CategoryService>();
+builder.Services.AddTransient<IProductService,ProductService>();
+builder.Services.AddTransient<IClientService, ClientService>();
 //Controller Configuration
-builder.Services.AddControllers();
+builder.Services.AddControllers().AddFluentValidation(
+    cfg => cfg.RegisterValidatorsFromAssemblyContaining<CategoryValidation>()
+);
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();

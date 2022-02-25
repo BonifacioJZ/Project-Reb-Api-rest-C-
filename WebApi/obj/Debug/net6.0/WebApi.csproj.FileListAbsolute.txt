@@ -61,3 +61,5 @@
 /home/bonifacio/Projects/C#/RebProject/WebApi/obj/Debug/net6.0/WebApi.genruntimeconfig.cache
 /home/bonifacio/Projects/C#/RebProject/WebApi/bin/Debug/net6.0/Application.dll
 /home/bonifacio/Projects/C#/RebProject/WebApi/bin/Debug/net6.0/Application.pdb
+/home/bonifacio/Projects/C#/RebProject/WebApi/bin/Debug/net6.0/AutoMapper.dll
+/home/bonifacio/Projects/C#/RebProject/WebApi/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
