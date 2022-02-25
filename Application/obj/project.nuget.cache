@@ -1,13 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "2C6+fbFwJGj+rpuZykZHu8VXxVtdyz4iWTbQdPo96Rpmb5QJg+VhRg7ifqvp2g4CCXjEeREn7chrTlr+Xblvww==",
+  "dgSpecHash": "skT7FkJOq/XgkZq9H2juWG9Wyiw7y+l8M/DnC67yyKLWIHUtV/uZOfbuvEZb/8oMgX7b19kkNreTvGANAm6rOQ==",
   "success": true,
   "projectFilePath": "/home/bonifacio/Projects/C#/RebProject/Application/Application.csproj",
   "expectedPackageFiles": [
+    "/home/bonifacio/.nuget/packages/automapper/11.0.1/automapper.11.0.1.nupkg.sha512",
+    "/home/bonifacio/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/11.0.0/automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "/home/bonifacio/.nuget/packages/fluentvalidation/10.3.6/fluentvalidation.10.3.6.nupkg.sha512",
     "/home/bonifacio/.nuget/packages/fluentvalidation.aspnetcore/10.3.6/fluentvalidation.aspnetcore.10.3.6.nupkg.sha512",
     "/home/bonifacio/.nuget/packages/fluentvalidation.dependencyinjectionextensions/10.3.6/fluentvalidation.dependencyinjectionextensions.10.3.6.nupkg.sha512",
     "/home/bonifacio/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
+    "/home/bonifacio/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/home/bonifacio/.nuget/packages/microsoft.data.sqlite.core/6.0.2/microsoft.data.sqlite.core.6.0.2.nupkg.sha512",
     "/home/bonifacio/.nuget/packages/microsoft.entityframeworkcore/6.0.2/microsoft.entityframeworkcore.6.0.2.nupkg.sha512",
     "/home/bonifacio/.nuget/packages/microsoft.entityframeworkcore.abstractions/6.0.2/microsoft.entityframeworkcore.abstractions.6.0.2.nupkg.sha512",
