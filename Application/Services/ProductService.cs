@@ -48,9 +48,7 @@ public class ProductService : IProductService
         .Include(p => p.Category)
         .FirstOrDefaultAsync();
         var productDetailsDto = _mapper.Map<ProductDetailsDto>(productDetails);
-
-
-        if(productDetails == null) throw new ArgumentException("Error in to find product");
+        
         return productDetailsDto;
     }
 
