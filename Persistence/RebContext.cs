@@ -17,5 +17,7 @@ public class RebContext : DbContext
     public DbSet<Category> Categories {get; set; }
     public DbSet<Product> Products {get; set; }
     public DbSet<Client> Clients {get; set; }
+    public DbSet<DetailsBill> DetailsBills {get; set; }
+    public DbSet<Bill> Bills { get; set; }
 
 }
